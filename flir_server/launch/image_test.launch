@@ -1,0 +1,7 @@
+<launch>
+
+  <group ns="blackfly_camera">
+    <node pkg="flir_server" name="flir_server" type="flir_server"/>
+  </group>
+  
+</launch>
